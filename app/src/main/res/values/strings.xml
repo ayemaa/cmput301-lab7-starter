@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android UI Testing</string>
+    <string name="city">City</string>
+    <string name="back">Back</string>
 </resources>
